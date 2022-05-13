@@ -1,5 +1,9 @@
 # SimpleTodoApp
 
+Simple one-component project for learning Angular. Nothing special and rocket-scientific :)
+
+#
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
